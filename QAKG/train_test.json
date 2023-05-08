@@ -1,0 +1,21 @@
+[
+    {
+        "Id": 1,
+        "Question": "What is the capital city of china?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "Beijing"
+            }
+        ],
+        "Data source": "LC-QuAD 2.0 (ISWC 2019)",
+        "Question creation date": "2019-01-23",
+        "Data set": "train"
+    }
+]
